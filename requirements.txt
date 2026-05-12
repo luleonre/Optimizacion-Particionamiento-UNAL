@@ -1,0 +1,4 @@
+numpy        # Para manejo eficiente de matrices
+pandas       # Para lectura de archivos CSV
+matplotlib   # Para renderizar los gráficos de grafos
+networkx     # Para la lógica matemática de grafos

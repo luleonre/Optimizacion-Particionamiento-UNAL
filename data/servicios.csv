@@ -1,0 +1,11 @@
+Componente,Auth,Users,Catalog,Cart,Orders,Payments,Shipping,Inventory,Reviews,Notif
+Auth,0,80,10,5,5,20,5,5,2,10
+Users,80,0,15,10,15,10,10,5,10,20
+Catalog,10,15,0,40,20,5,5,60,30,5
+Cart,5,10,40,0,70,10,5,20,5,5
+Orders,5,15,20,70,0,90,60,30,10,40
+Payments,20,10,5,10,90,0,40,5,2,30
+Shipping,5,10,5,5,60,40,0,30,2,50
+Inventory,5,5,60,20,30,5,30,0,10,10
+Reviews,2,10,30,5,10,2,2,10,0,5
+Notif,10,20,5,5,40,30,50,10,5,0
