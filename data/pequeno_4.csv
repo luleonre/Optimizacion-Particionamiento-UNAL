@@ -1,0 +1,5 @@
+,AuthService,UserService,PaymentService,InventoryService
+AuthService,0,9,2,1
+UserService,9,0,2,1
+PaymentService,2,2,0,8
+InventoryService,1,1,8,0

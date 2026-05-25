@@ -1,0 +1,9 @@
+,Firewall,Servidor_Web,Servidor_BD,Proxy,DNS,DHCP,Cliente_Interno,Cliente_Externo
+Firewall,0,9,8,9,1,1,1,1
+Servidor_Web,9,0,9,8,1,1,1,1
+Servidor_BD,8,9,0,7,1,1,1,1
+Proxy,9,8,7,0,1,1,1,1
+DNS,1,1,1,1,0,8,7,7
+DHCP,1,1,1,1,8,0,7,7
+Cliente_Interno,1,1,1,1,7,7,0,6
+Cliente_Externo,1,1,1,1,7,7,6,0

@@ -1,0 +1,16 @@
+,AuthService,UserService,ApiGateway,SessionService,ProfileService,OrderService,PaymentService,BillingService,CartService,PricingService,InventoryService,WarehouseService,CatalogService,ReportingService,AnalyticsService
+AuthService,0,9,10,8,9,3,2,3,2,3,2,3,2,3,2
+UserService,9,0,8,9,10,2,3,2,3,2,3,2,3,2,3
+ApiGateway,10,8,0,10,8,3,2,3,2,3,3,3,2,3,2
+SessionService,8,9,10,0,9,2,3,2,3,2,3,2,3,2,3
+ProfileService,9,10,8,9,0,3,2,3,2,3,2,3,2,3,2
+OrderService,3,2,3,2,3,0,10,8,9,10,4,2,4,2,3
+PaymentService,2,3,2,3,2,10,0,9,10,8,2,3,2,3,2
+BillingService,3,2,3,2,3,8,9,0,8,9,3,2,3,3,3
+CartService,2,3,2,3,2,9,10,8,0,10,2,3,2,3,2
+PricingService,3,2,3,2,3,10,8,9,10,0,3,2,3,2,3
+InventoryService,2,3,3,3,2,4,2,3,2,3,0,8,9,10,3
+WarehouseService,3,2,3,2,3,2,3,2,3,2,8,0,10,8,9
+CatalogService,2,3,2,3,2,4,2,3,2,3,9,10,0,9,10
+ReportingService,3,2,3,2,3,2,3,3,3,2,10,8,9,0,8
+AnalyticsService,2,3,2,3,2,3,2,3,2,3,3,9,10,8,0

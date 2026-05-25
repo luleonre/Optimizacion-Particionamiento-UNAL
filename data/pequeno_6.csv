@@ -1,0 +1,7 @@
+,AuthService,UserService,ApiGateway,PaymentService,InventoryService,NotificationService
+AuthService,0,9,8,2,1,2
+UserService,9,0,8,2,1,2
+ApiGateway,8,8,0,3,2,2
+PaymentService,2,2,3,0,9,7
+InventoryService,1,1,2,9,0,7
+NotificationService,2,2,2,7,7,0
